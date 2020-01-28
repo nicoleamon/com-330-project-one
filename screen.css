@@ -46,3 +46,13 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+/*Add custom styles below...*/
+
+h1 {
+  font-size: 1.75em;
+  padding: .25em;
+}
+p {
+  font-size: 1em;
+  padding-bottom: .50em;
+}
