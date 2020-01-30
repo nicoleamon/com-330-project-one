@@ -9,12 +9,11 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 h1 {
   font-size: 1.75em;
-  padding: .25em;
+  padding: .5em;
 }
 p {
   font-size: 1em;
-  padding-bottom: .50em;
-  padding-left: .50em;
+  padding: .5em;
   font-family: Arial, Helvetica, sans-serif;
 }
 body {
