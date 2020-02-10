@@ -8,15 +8,15 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /*Add custom styles below...*/
 
 html {
-  font-size: 1.125em; /* 18px / 16px = 1.125em */
-  line-height: 1.5em;
+  font-size: 1.125em;
+  line-height: 1.75em;
 }
 
 
 h1 {
   padding: 0.5em;
   color: rgb(77, 77, 51);
-  font-size: 40px;
+  font-size: 2em;
 }
 p {
   padding: 0.5em;
