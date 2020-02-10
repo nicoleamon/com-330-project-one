@@ -7,6 +7,12 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* Begin site styles... */
 /*Add custom styles below...*/
 
+html {
+  font-size: 1.125em; /* 18px / 16px = 1.125em */
+  line-height: 1.5em;
+}
+
+
 h1 {
   padding: 0.5em;
   color: rgb(77, 77, 51);
@@ -14,7 +20,6 @@ h1 {
 }
 p {
   padding: 0.5em;
-  line-height: 1.5;
 }
 body {
   background-color: rgb(179, 224, 255);
